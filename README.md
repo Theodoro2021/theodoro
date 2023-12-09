@@ -6,10 +6,6 @@
 [![Nubank](https://img.shields.io/badge/donate-nubank-purple)](https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR)
 
 
-<h1 align="center">https://www.youtube.com/channel/UCwFO9ylM7gHxYIXfJqAo1vQ</h1>
-
-
-
 ## Vamos instalar?
 
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
@@ -51,10 +47,6 @@ Email válido para certificação SSL
   </a>
 </div>
 
-
-Copia e cola:
-
-    00020126580014BR.GOV.BCB.PIX01362e05806e-d1b7-4eb7-b1db-f02009c7bc015204000053039865802BR592552.262.410 RAPHAEL BATIST6009SAO PAULO61080540900062250521IteWKSyU6xhcUBH1lncfj63040504
 
 
 
