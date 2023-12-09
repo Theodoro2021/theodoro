@@ -24,25 +24,5 @@ Subdominio para Frontend
 
 Subdominio para API - backoffice
 
-Email válido para certificação SSL
-
-## Consultoria e contato:
-
-    CANAL VEM FAZER LTDA
-
-    Fone: 81 99627-7285(WhatsApp)
-
-
-## Se o conteúdo te ajudou ajude este projeto:
-(Nos ajude a trazer novos conteúdos todos os dias!)
-
-<div align="center">
-    <h3>Ajude com qualquer valor</h3>
-  <a href="https://nubank.com.br/pagar/1lncfj/NjJMFk7UoK" target="_blank" rel="noopener noreferrer">
-    <img src="./public/images/nubank.jpeg" style="width: 50% !important;">
-  </a>
-</div>
-
-
 
 
