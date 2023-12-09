@@ -22,25 +22,6 @@ EOF
   sleep 2
 }
 
-#######################################
-# clones repostories using git
-# Arguments:
-#   None
-#######################################
-system_git_clone() {
-  print_banner
-  printf "${WHITE} 💻 Fazendo download do código Canal Vem Fazer...${GRAY_LIGHT}"
-  printf "\n\n"
-
-
-  sleep 2
-
-  sudo su - deploy <<EOF
-  git clone ${link_git} /home/deploy/${instancia_add}/
-EOF
-
-  sleep 2
-}
 
 #######################################
 # updates system
